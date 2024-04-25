@@ -1,4 +1,4 @@
-# About Me - 🚀 Aspiring Data Scientist | Enthusiastic Learner and Collaborator
+# 🚀 Aspiring Data Scientist | Enthusiastic Learner and Collaborator
 
 Hello there! 👋 I'm Kunal Chaudhary, a B.Tech graduate with a passion for turning data into actionable insights. 📊 During my academic journey, I honed my skills in as Python, SQL, machine learning algorithms, Excel and had the privilege of gaining hands-on experience through internships.
 
